@@ -1,0 +1,23 @@
+Stack Overflow este un site de întrebãri ?i rãspunsuri pentru programatori, reprezintã o 
+bibliotecã de rãspunsuri detaliate la diferite întrebãri despre programare.
+
+Acest site con?ine diferite func?ionalitã?i. 
+Pentru început observãm cã avem butoane de ”Log in” ?i ”Sign up” care reprezintã conceptul de 
+utilizator.Fiind un utilizator al acestei aplica?ii po?i beneficea de diferite permisiuni, cum ar fi: 
+de a cã?tiga reputa?ie atunci când îi aju?i pe ceilal?i cu întrebãri ?i rãspunsuri,
+de a selecta etichetele preferate pentru a personaliza pagina de pornire.
+Având op?iunea de a cãuta diferite întrebãri etichetele faciliteazã gãsirea acestora.
+Toate întrebãrile con?in etichete cu subiectele lor. 
+Fiecare întrebare poate avea pânã la 5 etichete care reprezintã subiectul lor.
+Se face click pe orice etichetã pentru a vedea o listã de întrebãri cu eticheta respectivã sau
+se acceseazã lista de etichete pentru a cãuta subiectele dorite.
+
+Principalul obiectiv al site-ului este ob?inerea de rãspunsuri, rãspunsuri care pot fi votate. 
+Prin urmare rãspunsurile cele mai votate vor apãrea primele pentru a fi u?or de gãsit.
+Persoana care a întrebat poate marca un rãspuns ca „acceptat”.
+Acceptarea nu înseamnã cã este cel mai bun rãspuns, înseamnã doar cã 
+a func?ionat pentru persoana care a întrebat.
+
+De asemenea aceastã aplica?ie poate fi utilizatã pentru ob?inerea unui job având op?iunea de 
+a vizualiza platforma de joburi disponibile pentru programatori.De asemenea existã op?iunea de a 
+te informa în legãturã cu diferite companii de care po?i fii interesat pentru ob?inerea jobului mult dorit.
